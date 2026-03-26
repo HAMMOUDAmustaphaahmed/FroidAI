@@ -1,0 +1,1 @@
+{"nb_unites_adiabatiques": {"mae": 0.032, "r2": 1.0}, "nb_evaporateurs": {"mae": 0.005, "r2": 1.0}, "nb_condenseurs": {"mae": 0.027, "r2": 0.999}, "debit_air": {"mae": 567.099, "r2": 1.0}, "puissance_totale": {"mae": 0.27, "r2": 1.0}, "cout_total": {"mae": 6611.904, "r2": 1.0}}
